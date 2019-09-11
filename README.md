@@ -34,4 +34,4 @@
    ```
      The prediction results will be in the bert_result dir, if you want to test the acc, you can handle it by yourself. In the /data/bert_result/test_result.tsv, the first column is the probability of class 0.
 
-Note! I run the model in windows 10, so there is some different.
+Note! I run the model in windows 10, so there are some differences.
